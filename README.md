@@ -8,7 +8,7 @@ This is a plain HTML static URL shortener built with [Jekyll](https://jekyllrb.c
 
 1. Get your own domain name: `domain.tld`.
 1. Fork the repo.
-1. Edit `CNAME` with your domain name.
+1. Update `CNAME` with your domain name.
 1. Update `_config.yaml` with your information.
 1. Update `index.md` with your information.
 1. Enable github pages for the repo.
@@ -38,7 +38,7 @@ target: "https://sub.other-domain/2021/01/article.html"
 - :white_check_mark: Plain HTML URL shortener
 - :white_check_mark: Lightweight
 - :white_check_mark: Faaaaast
-- :white_check_mark: Free to host to github.com
+- :white_check_mark: Free to host on github.com
 - :white_check_mark: Easy to brand
 
 - :negative_squared_cross_mark: No CSS, No JS
