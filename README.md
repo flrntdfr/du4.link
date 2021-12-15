@@ -10,6 +10,7 @@ This is a plain HTML static URL shortener built with [Jekyll](https://jekyllrb.c
 1. Fork the repo.
 1. Edit `CNAME` with your domain name.
 1. Update `_config.yaml` with your information.
+1. Update `index.md` with your information.
 1. Enable github pages for the repo.
 
 **Shorten URLs**

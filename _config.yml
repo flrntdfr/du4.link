@@ -4,7 +4,6 @@ email: florent@dufour.xyz
 description: >- 
   Plain HTML static URL shortener.
 keywords: URL, Shortener, Redirect
-url: "https://du4.link"
 language: en
 encoding: utf-8
 
