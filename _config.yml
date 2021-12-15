@@ -1,0 +1,26 @@
+title: du.link URL shortener
+owner: Florent Dufour
+email: florent@dufour.xyz
+description: >- 
+  Plain HTML static URL shortener.
+keywords: URL, Shortener, Redirect
+url: "https://du4.link"
+language: en
+encoding: utf-8
+
+collections:
+  URLs:
+    output: true
+    permalink: /:name
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

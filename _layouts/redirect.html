@@ -1,0 +1,23 @@
+---
+title: Redirecting...
+target:
+time: '0'
+---
+
+<!DOCTYPE html>
+<html>
+  <head>
+	  <meta charset="{{ site.encoding }}">
+      <meta http-equiv="Content-Type" content="text/html;charset={{ site.encoding }}">
+	  <meta http-equiv="refresh" content="{{ page.time }}; url='{{ page.target }}'" />
+      <title>{{ layout.title }}</title>
+  </head>
+  <body>
+
+	  {{ content }}
+
+	  <p>You are being directed to: <a href="{{ page.target }}">this link</a>.</p>
+  </body>
+</html>
+
+
