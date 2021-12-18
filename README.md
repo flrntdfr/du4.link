@@ -15,7 +15,7 @@ This is a plain HTML static URL shortener built with [Jekyll](https://jekyllrb.c
 
 **Shorten URLs**
 
-1. Let's say you want to shorten: `https://sub.other-domain/2021/01/article.html`.
+1. Let's say you want to shorten: `https://sub.other-domain.com/2021/01/article.html`.
 1. Let's say you want it to be `domain.tld/article`.
 1. Create an HTML file under `_URLs` named as the permalink: Here `article.html`.
 1. The content of this HTML page is:
@@ -30,7 +30,7 @@ target: "https://sub.other-domain/2021/01/article.html"
 ---
 ```
 
-1. git add, commmit, push.
+1. git add, commit, push.
 1. Visit `domain.tld/article` and you'll be redirected.
 
 # Features
@@ -39,7 +39,6 @@ target: "https://sub.other-domain/2021/01/article.html"
 - :white_check_mark: Lightweight
 - :white_check_mark: Faaaaast
 - :white_check_mark: Free to host on github.com
-- :white_check_mark: Easy to brand
 
 - :negative_squared_cross_mark: No CSS, No JS
 - :negative_squared_cross_mark: No database
