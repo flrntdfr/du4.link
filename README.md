@@ -1,6 +1,6 @@
 # Introduction
 
-This is a plain HTML static URL shortener built with [Jekyll](https://jekyllrb.com).
+This is a plain HTML static URL shortener built with [Jekyll](https://jekyllrb.com). I give more details in [this blog post](https://blog.dufour.xyz/2021/du4.link).
 
 # How to use it
 
